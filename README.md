@@ -50,16 +50,6 @@ This dashboard was built under the role of **AI Vibe Coder (Founding Engineer)**
 
 ---
 
-## Getting Started (For Local Setup)
-
-```bash
-git clone https://github.com/yourusername/analytics-dashboard.git
-cd analytics-dashboard
-npm install
-npm run dev
-
----
-
 ## Screenshots
 
 ---
@@ -78,3 +68,14 @@ npm run dev
 <img width="1898" height="912" alt="Screenshot 2025-08-06 012753" src="https://github.com/user-attachments/assets/b0838d60-03a2-4d6c-be48-19fb85ce59d3" />
 
 ---
+
+## Getting Started (For Local Setup)
+
+```bash
+git clone https://github.com/yourusername/analytics-dashboard.git
+cd analytics-dashboard
+npm install
+npm run dev
+
+---
+
