@@ -1,0 +1,15 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body, html ,#root{
+  height: 100%;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}

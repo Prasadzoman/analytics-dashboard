@@ -1,0 +1,43 @@
+.charts-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.chart-box {
+  flex: 1;
+  min-width: 300px;
+  background-color: rgba(255, 255, 255, 0.08);
+  padding: 1rem;
+  border-radius: 10px;
+}
+.overview-container {
+  padding: 4rem 2rem;
+
+  min-height: 100vh;
+}
+
+.export-btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.export-btn {
+  padding: 14px 24px;
+  background-color: #2b6cb0; 
+  color: white;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.export-btn:hover {
+  background-color: #2c5282;
+  transform: scale(1.05);
+}
