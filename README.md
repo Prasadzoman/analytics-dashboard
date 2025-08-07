@@ -31,8 +31,6 @@ A beautifully crafted, AI-powered analytics dashboard for digital marketing agen
 | `React.js`          | Frontend Framework                     |
 | `Vite`              | Fast build tool                        |
 | `Recharts`          | For rendering interactive charts       |
-| `shadcn/ui`         | Modern UI components                   |
-| `Tailwind CSS`      | Utility-first styling                  |
 | `React Table`       | Powerful data table utilities          |
 | `Context API`       | Global state management                |
 
